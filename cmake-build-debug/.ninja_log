@@ -1,0 +1,22 @@
+# ninja log v5
+1	1380	7539045626693502	src/CMakeFiles/figure_library.dir/Figure.cpp.obj	7981ece9371d33f1
+1102	1300	7539047457981126	src/lab_OOP_3.exe	8af966a8fe7b376a
+22	1393	7539045626847209	src/CMakeFiles/figure_library.dir/figureArray.cpp.obj	2ba8e41be837c677
+7	1101	7539047456063904	src/CMakeFiles/lab_OOP_3.dir/main.cpp.obj	8907f735cc049e5f
+8	1748	7539045630385106	src/CMakeFiles/figure_library.dir/rectangle.cpp.obj	6ce4624561761e6
+28	1746	7539045630369538	src/CMakeFiles/figure_library.dir/trapezoid.cpp.obj	63b5fde63ff2fcaa
+14	1749	7539045630369538	src/CMakeFiles/figure_library.dir/square.cpp.obj	5aedb8b304550cc7
+1750	2104	7539045633996565	src/libfigure_library.a	b53495f3c15d2324
+14	2096	7539052821885629	src/CMakeFiles/lab_OOP_3.dir/main.cpp.obj	8907f735cc049e5f
+6	2392	7539052824815023	src/CMakeFiles/figure_library.dir/rectangle.cpp.obj	6ce4624561761e6
+2392	2574	7539052826670519	src/libfigure_library.a	b53495f3c15d2324
+2574	2773	7539052828614837	src/lab_OOP_3.exe	8af966a8fe7b376a
+28	5807	7539053756982787	Google_Tests/CMakeFiles/figure_tests.dir/tests/figureArray_tests.cpp.obj	ebfa9b5f72c7562a
+51	6100	7539053759947942	Google_Tests/lib/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj	268cf2c934b1e8b2
+20	6287	7539053761789136	Google_Tests/CMakeFiles/figure_tests.dir/tests/square_tests.cpp.obj	1fb99c13289c24c5
+36	6608	7539053765004929	Google_Tests/CMakeFiles/figure_tests.dir/tests/trapezoid_tests.cpp.obj	71ddfa9a6b864d70
+10	6912	7539053767992656	Google_Tests/CMakeFiles/figure_tests.dir/tests/rectangle_tests.cpp.obj	6b78cbebc96d72ac
+43	21828	7539053916969957	Google_Tests/lib/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	74617cb8d6d7d1e2
+21833	26930	7539053968241696	lib/libgtestd.a	8b5a040b078b0618
+26930	27047	7539053969430924	lib/libgtest_maind.a	9e80a854ac38e448
+27048	32468	7539054023484136	Google_Tests/figure_tests.exe	8587617200ca5a3a
